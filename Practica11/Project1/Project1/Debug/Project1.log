@@ -1,0 +1,8 @@
+﻿  main.cpp
+e:\github\cglab11_manoanimation\project1\project1\main.cpp(608): warning C4129: 'I': secuencia de escape de carácter no reconocida
+e:\github\cglab11_manoanimation\project1\project1\main.cpp(609): warning C4129: 'M': secuencia de escape de carácter no reconocida
+e:\github\cglab11_manoanimation\project1\project1\main.cpp(610): warning C4129: 'A': secuencia de escape de carácter no reconocida
+e:\github\cglab11_manoanimation\project1\project1\main.cpp(611): warning C4129: 'M': secuencia de escape de carácter no reconocida
+e:\github\cglab11_manoanimation\project1\project1\main.cpp(612): warning C4129: 'P': secuencia de escape de carácter no reconocida
+  Project1.vcxproj -> E:\GitHub\CGLab11_ManoAnimation\Project1\Debug\Project1.exe
+  Project1.vcxproj -> E:\GitHub\CGLab11_ManoAnimation\Project1\Debug\Project1.pdb (Partial PDB)
